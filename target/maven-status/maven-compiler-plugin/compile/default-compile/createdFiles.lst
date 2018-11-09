@@ -1,2 +1,5 @@
 bobcurrie\playground\config\WebConfig.class
+bobcurrie\playground\controller\DemoController.class
+bobcurrie\playground\service\DemoServiceImpl.class
 bobcurrie\playground\config\WebAppInitializer.class
+bobcurrie\playground\service\DemoService.class
