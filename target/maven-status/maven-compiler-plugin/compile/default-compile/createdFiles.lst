@@ -1,6 +1,7 @@
 bobcurrie\playground\model\ToDoItem.class
 bobcurrie\playground\service\DemoService.class
 bobcurrie\playground\service\ToDoItemServiceImpl.class
+bobcurrie\playground\util\AttributeNames.class
 bobcurrie\playground\util\Mappings.class
 bobcurrie\playground\config\WebConfig.class
 bobcurrie\playground\controller\DemoController.class
