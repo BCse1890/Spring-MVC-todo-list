@@ -1,5 +1,12 @@
+bobcurrie\playground\model\ToDoItem.class
+bobcurrie\playground\service\DemoService.class
+bobcurrie\playground\service\ToDoItemServiceImpl.class
+bobcurrie\playground\util\Mappings.class
 bobcurrie\playground\config\WebConfig.class
 bobcurrie\playground\controller\DemoController.class
+bobcurrie\playground\service\ToDoItemService.class
 bobcurrie\playground\service\DemoServiceImpl.class
+bobcurrie\playground\controller\ToDoItemController.class
+bobcurrie\playground\model\ToDoData.class
+bobcurrie\playground\util\ViewNames.class
 bobcurrie\playground\config\WebAppInitializer.class
-bobcurrie\playground\service\DemoService.class
