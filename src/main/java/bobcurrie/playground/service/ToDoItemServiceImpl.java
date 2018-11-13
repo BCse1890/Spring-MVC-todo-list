@@ -5,6 +5,8 @@ import bobcurrie.playground.model.ToDoItem;
 import lombok.Getter;
 import org.springframework.stereotype.Service;
 
+
+
 @Service
 public class ToDoItemServiceImpl implements ToDoItemService{
 
@@ -34,8 +36,4 @@ public class ToDoItemServiceImpl implements ToDoItemService{
         data.updateItem(toUpdate);
     }
 
-//    @Override
-//    public ToDoData getData() {
-//        return data;
-//    }
 }

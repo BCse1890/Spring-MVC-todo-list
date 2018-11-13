@@ -2,26 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61134a41-d88d-40be-8d9a-25d08f336956" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/bobcurrie/playground/util/AttributeNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/add_item.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_item.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bobcurrie/playground/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bobcurrie/playground/config/WebConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/bobcurrie/playground/controller/ToDoItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bobcurrie/playground/controller/ToDoItemController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bobcurrie/playground/service/ToDoItemServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bobcurrie/playground/service/ToDoItemServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/bobcurrie/playground/util/Mappings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bobcurrie/playground/util/Mappings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/bobcurrie/playground/util/ViewNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bobcurrie/playground/util/ViewNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/items_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/items_list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/bobcurrie/playground/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/bobcurrie/playground/config/WebConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/bobcurrie/playground/controller/ToDoItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/bobcurrie/playground/controller/ToDoItemController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/bobcurrie/playground/service/ToDoItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/bobcurrie/playground/service/ToDoItemServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/bobcurrie/playground/util/Mappings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/bobcurrie/playground/util/Mappings.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/bobcurrie/playground/util/ViewNames.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/classes/bobcurrie/playground/util/ViewNames.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/view/items_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/todo-list/WEB-INF/view/items_list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/todo-list/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/work/Tomcat/localhost/todo-list/org/apache/jsp/WEB_002dINF/view/add_005fitem_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/work/Tomcat/localhost/todo-list/org/apache/jsp/WEB_002dINF/view/add_005fitem_jsp.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/work/Tomcat/localhost/todo-list/org/apache/jsp/WEB_002dINF/view/items_005flist_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/work/Tomcat/localhost/todo-list/org/apache/jsp/WEB_002dINF/view/items_005flist_jsp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/work/Tomcat/localhost/todo-list/org/apache/jsp/WEB_002dINF/view/items_005flist_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/work/Tomcat/localhost/todo-list/org/apache/jsp/WEB_002dINF/view/items_005flist_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bobcurrie/playground/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bobcurrie/playground/config/WebConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/bobcurrie/playground/controller/ToDoItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bobcurrie/playground/controller/ToDoItemController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bobcurrie/playground/service/ToDoItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bobcurrie/playground/service/ToDoItemServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/bobcurrie/playground/util/Mappings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bobcurrie/playground/util/Mappings.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/bobcurrie/playground/util/ViewNames.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bobcurrie/playground/util/ViewNames.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/bobcurrie/playground/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/bobcurrie/playground/config/WebConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/bobcurrie/playground/controller/ToDoItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/bobcurrie/playground/controller/ToDoItemController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/bobcurrie/playground/service/ToDoItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/bobcurrie/playground/service/ToDoItemServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/bobcurrie/playground/util/Mappings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/bobcurrie/playground/util/Mappings.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/bobcurrie/playground/util/ViewNames.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT/WEB-INF/classes/bobcurrie/playground/util/ViewNames.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT/WEB-INF/view/items_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT/WEB-INF/view/items_list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/todo-list-1.0-SNAPSHOT/index.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,22 +52,23 @@
     <session id="-837776489">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="56" />
-          <entry key="java" value="4655" />
-          <entry key="jsp" value="1296" />
+          <entry key="java" value="5317" />
+          <entry key="jsp" value="2199" />
           <entry key="snippet" value="15" />
           <entry key="txt" value="27" />
           <entry key="xml" value="635" />
@@ -62,8 +77,8 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="56" />
-          <entry key="JAVA" value="4655" />
-          <entry key="JSP" value="1296" />
+          <entry key="JAVA" value="5317" />
+          <entry key="JSP" value="2199" />
           <entry key="PLAIN_TEXT" value="27" />
           <entry key="Scratch" value="15" />
           <entry key="XML" value="635" />
@@ -72,8 +87,8 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
-          <entry key="java" value="21" />
-          <entry key="jsp" value="6" />
+          <entry key="java" value="31" />
+          <entry key="jsp" value="11" />
           <entry key="snippet" value="1" />
           <entry key="xml" value="1" />
         </counts>
@@ -81,8 +96,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="JAVA" value="21" />
-          <entry key="JSP" value="6" />
+          <entry key="JAVA" value="31" />
+          <entry key="JSP" value="11" />
           <entry key="Scratch" value="1" />
           <entry key="XML" value="1" />
         </counts>
@@ -91,58 +106,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/service/ToDoItemServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/controller/ToDoItemController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+            <state relative-caret-position="380">
+              <caret line="81" column="5" lean-forward="true" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/welcome.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/items_list.jsp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/util/ViewNames.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/add_item.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -159,20 +130,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/util/Mappings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+            <state relative-caret-position="40">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/controller/DemoController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/items_list.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="243">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/util/ViewNames.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -180,11 +157,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/model/ToDoData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+            <state relative-caret-position="380">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="59" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/add_item.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="37" column="7" selection-end-line="37" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_item.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/welcome.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -203,6 +216,7 @@
     <findStrings>
       <find>onStar</find>
       <find>/hello</find>
+      <find>toDoItem from</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -214,7 +228,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" />
         <option value="$PROJECT_DIR$/src/main/java/bobcurrie/playground/config/WebAppInitializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/bobcurrie/playground/config/WebConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/bobcurrie/playground/DemoService.java" />
         <option value="$PROJECT_DIR$/src/main/java/bobcurrie/playground/DemoServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/bobcurrie/playground/service/DemoServiceImpl.java" />
@@ -222,15 +235,18 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/welcome.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/bobcurrie/playground/model/ToDoItem.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/items_list.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/bobcurrie/playground/service/ToDoItemService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/bobcurrie/playground/service/ToDoItemServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/bobcurrie/playground/model/ToDoData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/bobcurrie/playground/util/Mappings.java" />
         <option value="$PROJECT_DIR$/src/main/java/bobcurrie/playground/util/AttributeNames.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/add_item.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/bobcurrie/playground/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/bobcurrie/playground/service/ToDoItemServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bobcurrie/playground/util/Mappings.java" />
         <option value="$PROJECT_DIR$/src/main/java/bobcurrie/playground/util/ViewNames.java" />
         <option value="$PROJECT_DIR$/src/main/java/bobcurrie/playground/controller/ToDoItemController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/add_item.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/items_list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_item.jsp" />
       </list>
     </option>
   </component>
@@ -296,7 +312,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -409,10 +424,12 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541890020434" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542142724878" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/todolist" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -515,8 +532,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1576" height="835" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49893844" visible="true" weight="0.28496042" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49893844" visible="true" weight="0.29287598" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -524,7 +542,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988604" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -587,13 +605,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="17" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/config/logback.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -601,23 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/model/ToDoItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/service/DemoServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -631,10 +626,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/config/WebConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/service/DemoService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="40">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Source-code-Spring-MVC-Introduction-Delete-Item-Challenge.zip/todolist/src/main/java/academy/learnprogramming/service/ToDoItemServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/service/ToDoItemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -651,17 +654,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/service/DemoService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/service/DemoServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="160">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/service/ToDoItemServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/config/WebConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/model/ToDoItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/controller/DemoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/model/ToDoData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -675,16 +708,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/items_list.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/util/ViewNames.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/util/AttributeNames.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -692,47 +715,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/util/Mappings.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        <state relative-caret-position="200">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/controller/DemoController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/util/ViewNames.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/model/ToDoData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/controller/ToDoItemController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="160">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/add_item.jsp">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="37" column="7" selection-end-line="37" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/items_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/util/Mappings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_item.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bobcurrie/playground/controller/ToDoItemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="81" column="5" lean-forward="true" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
